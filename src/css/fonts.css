@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "Inter";
+	font-weight: 400 500;
+	src: url("/assets/fonts/inter/inter-variable.ttf") format("truetype");
+}
+
+.paragraph {
+	font-size: 17px;
+}
+
+.description,
+.nav,
+.footer {
+	font-size: 14px;
+}

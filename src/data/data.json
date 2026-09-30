@@ -1,0 +1,27 @@
+[
+	{
+		"icon": "sparkle",
+		"number": "2.4M",
+		"title": "Students reached",
+		"description": "Across 31 countries since 2011."
+	},
+	{
+		"icon": "plus",
+		"number": "1,284",
+		"title": "Schools partnered",
+		"description": "In 14 countries, from Kenya to Guatemala."
+	},
+	{
+		"icon": "arrowRight",
+		"number": "38K",
+		"title": "Teachers trained",
+		"description": "Equiped with modern tools and methodology."
+	},
+	{
+		"icon": "trendingUp",
+		"number": "3.1",
+		"numberIcon": "close",
+		"title": "Graduation lift",
+		"description": "Partner schools outperform national averages 3x."
+	}
+]
